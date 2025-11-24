@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/job-connect-platform-41327-41338/career_platform_backend"
+}
